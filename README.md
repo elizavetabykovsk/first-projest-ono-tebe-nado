@@ -5,7 +5,8 @@
 ## Описание проекта
 Одностраничный лендинг аукциона. Сайт представляет информацию о необычных лотах, об аукционе и контактах.
 
-Ссылка на репозиторий: https://github.com/elizavetabykovsk/first-projest-ono-tebe-nado
+Ссылка на репозиторий: https://github.com/elizavetabykovsk/ono-tebe-nado-fd
+обновление
 
 ## Технологии
 - HTML5
